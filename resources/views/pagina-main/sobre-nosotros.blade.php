@@ -39,7 +39,7 @@
     {{-- comentarios --}}
     <div class="row text-center">
         <div class="col-12 col-md-12 justify-conten-center">
-            <h1 class=" text-center">Lea nuestros Objetivos específicos</h1>
+            <h1 class=" text-center">Lea Objetivos específicos</h1>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item list-group-item-secondary">Poder garantizar a los puntos de apoyo que brindan atención a migrantes y retornados, las condiciones para el mantenimiento de los servicios que prestan y el sostenimiento de su personal.</li>
                 <li class="list-group-item">Trabajar sobre la base de los principios humanitarios y el reconocimiento de un enfoque diferencial.</li>
