@@ -36,6 +36,7 @@
         </div>
     </div>
     <hr>
+    {{-- comentarios --}}
     <div class="row text-center">
         <div class="col-12 col-md-12 justify-conten-center">
             <h1 class=" text-center">Objetivos específicos</h1>
