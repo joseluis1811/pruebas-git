@@ -4,6 +4,7 @@
 
 <div class="container">
     <h1 class=" text-center">Conózcanos</h1>
+    <h1 class=" text-center">Mision</h1>
     <div class="row">
         <div class="col-12 col-md-4 ">
             <img src="{{asset('web/images/mision.jpg')}}" class="img-fluid" alt="Responsive image">
@@ -14,6 +15,7 @@
     </div>
     <hr>
     <div class="row">
+        <h1 class=" text-center">Vision</h1>
         <div class="col-12 col-md-7 ">
             <p>Ser una Red de ayuda humanitaria consolidada en el tiempo de alcance trasnacional, que reúne a los actores locales y organizaciones que dan atención directa a migrantes y retornados, desarrollando acciones conjuntas y pertinentes a las necesidades de la población que está en condición de alta vulnerabilidad en distintos territorios y condiciones; para garantizar el restablecimiento de sus derechos. Logrando articular nuestras acciones con el gobierno y las organizaciones internacionales. Pretende reunir a las organizaciones de la sociedad civil en primer lugar pero tener ramas hacia la academia, comunidades organizadas, organizaciones sin ánimo de lucro, en síntesis pretendemos tejer Redes de solidaridad.</p>
         </div>
@@ -27,6 +29,7 @@
             <img src="{{asset('web/images/objetivos.jpg')}}" class="img-fluid" alt="Responsive image Objetivos">
         </div>
         <div class="col-12 col-md-7">
+            <h1 class=" text-center">Objetivos</h1>
             <p>Entregar una respuesta humanitaria eficaz y eficiente a migrantes y retornados, para restituir los derechos vulnerados en este proceso. (alimentación, hospedaje, orientación, comunicación, detección de: VBG, menores no acompañados, casos de salud de interés público, entre otros)
                 Reconocer otros actores locales, que en sus territorios brindan respuesta a migrantes y retornados en condición de alta vulnerabilidad y vincularlos como miembros de la red humanitaria.
                 Tener un rol de incidencia y participación en la problemática de migratoria que enfrenta el país.</p>
