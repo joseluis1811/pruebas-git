@@ -11,8 +11,9 @@
                     @csrf
                     <fieldset>
                         <legend class="text-center header text-primary">Donaciones</legend>
-                    <h1>Donar es poner tu corazon en marcha por los necesitados</h1>
-                        <div class="form-group">
+                    <p class="col-md-12  text-center">Donar es poner tu corazon en marcha por los necesitados</p>
+                       <hr>
+                    <div class="form-group">
                             <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-user bigicon"></i></span>
                             
                             <div class="col-md-8">
